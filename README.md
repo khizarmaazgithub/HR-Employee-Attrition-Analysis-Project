@@ -1,4 +1,4 @@
-🚀 HR Employee Attrition Analysis (Power BI)
+HR-Employee-Attrition-Analysis-Project
 
 📌 Project Overview
 
